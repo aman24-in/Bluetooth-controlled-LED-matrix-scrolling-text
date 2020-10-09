@@ -11,4 +11,4 @@ This repository contains files and circuit diagram for designing an 8*8 LED Matr
 
 Read comment in programs carefully.
 Library **MD_Parola** and **MD_MAX72XX** is used.
-HC-05 bluetooth module s used in this project but it will work fine with HC-06 too.
+HC-05 bluetooth module is used in this project but it will work fine with HC-06 too.
