@@ -1,7 +1,9 @@
 # Bluetooth-controlled-LED-matrix-scrolling-text
 This repository contains files and circuit diagram for designing an 8*8 LED Matrix with Arduino Uno. It contains the program to control different aspects of LED Matrix.
 
-***max 7219_circuit.png*** contains the circuit diagrams and connections.
+***max 7219_circuit.png*** shows the circuit diagrams and connections.
+
+***Arduino_Connections.jpeg*** shows the practiclly implemented circuit.
 
 ***Arduino_BT_to_LED_Display*** === This program is specifically for led matrices which are joined end to end.
 
